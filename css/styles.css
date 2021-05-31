@@ -63,6 +63,16 @@ article {
   margin-bottom: 1rem;
 }
 
+input,
+button,
+select,
+textarea {
+  font: inherit;
+  font-weight: 400;
+  letter-spacing: inherit;
+  line-height: 1;
+}
+
 label {
   display: grid;
   justify-items: start;
